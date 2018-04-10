@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    drim (0.2.1)
+      zrcon (~> 0.0.4)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.2.1)
+    rake (10.5.0)
+    zrcon (0.0.4)
+      dotenv (~> 2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.16)
+  drim!
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.16.1
